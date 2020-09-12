@@ -1,2 +1,2 @@
 # utmlibrary.github.io
-Placeholder for redirecting to the DSU website
+Placeholder for redirecting to the Toolkit website.
